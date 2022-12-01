@@ -26,13 +26,13 @@ namespace Entidades
         }
         public override bool ValidarAptitud()
         {
-            if(this.Edad >= 65 && this.añosExperiencia <= 2)
+            if(this.Edad < 65 && this.añosExperiencia >= 2)
             {
-                return false;
+                return true;
             }
             else
             {
-                return true;
+                return false;
             }
         }
     }
