@@ -1,0 +1,12 @@
+C:\Programacion\UTN\2° Cuatrimestre\Laboratorio\Examenes\RPP\Geminiani.Mateo.2C\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Programacion\UTN\2° Cuatrimestre\Laboratorio\Examenes\RPP\Geminiani.Mateo.2C\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\UTN\2° Cuatrimestre\Laboratorio\Examenes\RPP\Geminiani.Mateo.2C\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Programacion\UTN\2° Cuatrimestre\Laboratorio\Examenes\RPP\Geminiani.Mateo.2C\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Programacion\UTN\2° Cuatrimestre\Laboratorio\Examenes\RPP\Geminiani.Mateo.2C\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Programacion\UTN\2° Cuatrimestre\Laboratorio\Examenes\RPP\Geminiani.Mateo.2C\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Programacion\UTN\2° Cuatrimestre\Laboratorio\Examenes\RPP\Geminiani.Mateo.2C\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Programacion\UTN\2° Cuatrimestre\Laboratorio\Examenes\RPP\Geminiani.Mateo.2C\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Programacion\UTN\2° Cuatrimestre\Laboratorio\Examenes\RPP\Geminiani.Mateo.2C\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Programacion\UTN\2° Cuatrimestre\Laboratorio\Examenes\RPP\Geminiani.Mateo.2C\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Programacion\UTN\2° Cuatrimestre\Laboratorio\Examenes\RPP\Geminiani.Mateo.2C\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Programacion\UTN\2° Cuatrimestre\Laboratorio\Examenes\RPP\Geminiani.Mateo.2C\Entidades\obj\Debug\net5.0\Entidades.pdb
